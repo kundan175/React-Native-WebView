@@ -31,9 +31,3 @@ Please use yarn for package installation.
 `npx expo run:ios`
 
 If you don't run the commands above, you will get mapbox error
-
-### API Url
-
-Also you need to clone **backend** repo to work with api
-
-then start locally on port **5000**
