@@ -1,4 +1,4 @@
-# juggle-rewards-mobile
+# React-Native-WebView
 
 This is the official repo for the Juggle rewards mobile application.
 
@@ -7,7 +7,7 @@ This is the official repo for the Juggle rewards mobile application.
 ## Project Initialization
 
 For projoect initialization, you need EAS access to run the app. 
-Send Sam your email address to register for expo access.
+
 
 
 **_DO NOT USE NPM!_**
