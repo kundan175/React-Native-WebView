@@ -1,7 +1,5 @@
 # React-Native-WebView
 
-This is the official repo for the Juggle rewards mobile application.
-
 ---
 
 ## Project Initialization
